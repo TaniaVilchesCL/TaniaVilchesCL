@@ -81,11 +81,9 @@ During my internship, I collaborated on DevOps-related tasks such as infrastruct
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔧 [Project Name](https://github.com/TaniaVilchesCL/project) | Short description of what it does and why it matters | Python · Django · PostgreSQL |
-| 🌐 [Project Name](https://github.com/TaniaVilchesCL/project) | Short description of what it does and why it matters | React · Node.js · MongoDB |
-| 📊 [Project Name](https://github.com/TaniaVilchesCL/project) | Short description of what it does and why it matters | Python · SQL · REST API |
-
-> 💡 Replace these rows with your actual repositories and update the links!
+| 🔧 [Project Name]([https://github.com/TaniaVilchesCL/project](https://github.com/TaniaVilchesCL/Portafolio-Tania-Vilches-OFICIAL)) | My portfolio | Python · HYML · CSS |
+| 🌐 [Project Name]([https://github.com/TaniaVilchesCL/project](https://github.com/TaniaVilchesCL/pomodoro-proyect)) | Pomodoro proyect | React · Node.js · MongoDB |
+| 📊 [Project Name]([https://github.com/TaniaVilchesCL/project](https://github.com/TaniaVilchesCL/Cadmium-kanban-proyecto-ev2)) | Group project called Cadmium to develop a web application for a small coffee pop-up at our university | Python · SQL · REST API |
 
 ---
 
