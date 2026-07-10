@@ -70,7 +70,7 @@ During my internship, I collaborated on DevOps-related tasks such as infrastruct
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TaniaVilchesCL&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Tania's GitHub stats"/>
+  <img height="160" src="[https://github-readme-stats.vercel.app/api?username=TaniaVilchesCL&show_icons=true&theme=default&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=TaniaVilchesCL&show_icons=true&cache_seconds=86400)" alt="Tania's GitHub stats"/>
   &nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaniaVilchesCL&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
 </p>
