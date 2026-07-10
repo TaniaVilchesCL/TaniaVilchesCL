@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tania Vilches 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · Python · Django · Node.js · React · SQL · NoSQL
+  <b>Full Stack Developer | DevOps Junior</b> · Python · Django · Node.js · React · Terraform · GCP
 </p>
 
 <p align="center">
@@ -20,13 +20,16 @@
 
 ## About me
 
-I'm a Full Stack Developer passionate about building clean, scalable, and user-friendly applications. I enjoy working across the entire stack — from designing REST APIs to crafting responsive UIs.
+I'm a Full Stack Developer with hands-on experience in DevOps gained during my professional internship. I enjoy building scalable applications from frontend to backend while also working with cloud infrastructure, automation, and CI/CD practices.
 
-- 🌱 Currently deepening my knowledge in cloud architecture and DevOps practices
-- 💼 Open to new job opportunities
-- 🤝 Interested in contributing to open source projects
+During my internship, I collaborated on DevOps-related tasks such as infrastructure automation, cloud services, Git workflows, and deployment pipelines, complementing my software development skills.
+
+- 💻 Full Stack Developer (Python, Django, React, Node.js)
+- ☁️ DevOps Junior experience (Terraform, GCP, Git, CI/CD)
+- 🌱 Continuously learning cloud architecture and DevOps best practices
+- 💼 Open to Full Stack, Backend and DevOps Junior opportunities
+- 🤝 Passionate about solving problems and learning new technologies
 - 📍 Based in Santiago, Chile
-
 ---
 
 ## Tech Stack
@@ -54,8 +57,12 @@ I'm a Full Stack Developer passionate about building clean, scalable, and user-f
 **Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
